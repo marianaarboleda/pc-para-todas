@@ -1,24 +1,27 @@
 source "https://rubygems.org"
+gemspec
+
+# source "https://rubygems.org"
 #gem "jekyll", "~> 3.9.3"
-gem 'github-pages', group: :jekyll_plugins
+# gem 'github-pages', group: :jekyll_plugins
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
+# # Hello! This is where you manage which Jekyll version is used to run.
+# # When you want to use a different version, change it below, save the
+# # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+# #
+# #     bundle exec jekyll serve
+# #
 
-# If you have any plugins, put them here!
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-group :jekyll_plugins do
-    gem 'jekyll-feed'
-    gem 'jekyll-sitemap'
-    gem 'jekyll-paginate'
-    gem 'jekyll-seo-tag'
-    gem 'jekyll-archives'
-    gem 'tzinfo-data'
-    gem 'tzinfo'
-    gem "kramdown-parser-gfm"
-end
-gem "webrick", "~> 1.8"
+# # If you have any plugins, put them here!
+# gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+# group :jekyll_plugins do
+#     gem 'jekyll-feed'
+#     gem 'jekyll-sitemap'
+#     gem 'jekyll-paginate-v2'
+#     gem 'jekyll-seo-tag'
+#     gem 'jekyll-archives'
+#     gem 'tzinfo-data'
+#     gem 'tzinfo'
+#     gem "kramdown-parser-gfm"
+# end
+# gem "webrick", "~> 1.8"
