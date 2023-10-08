@@ -29,3 +29,6 @@ A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with
 ![preview](preview.jpg)
 
 [See it in action](http://jamigibbs.github.io/phantom/).
+
+<!-- 
+bundle exec jekyll serve -->
