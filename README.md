@@ -11,10 +11,21 @@ El repositorio irá creciendo con los materiales que desarrolle y están sujetos
 
 
 ## Introducción a la visualización de datos
-- [Introducción a la visualización de datos usando Widgets](/visualizacion_widgets.ipynb)
+- [Introducción a la visualización de datos usando Widgets](Cuadernos/visualizacion_widgets.ipynb)
   
-- [Visualizando los datos abiertos de la ciudad](/Visualizacion_Usa.ipynb)
+- [Visualizando los datos abiertos de la ciudad](Cuadernos/Visualizacion_Usa.ipynb)
 
-- [Pruebas Saber](/unir_saber.ipynb)
+- [Pruebas Saber](Cuadernos/unir_saber.ipynb)
 
 
+
+## Créditos
+
+Página creada con:
+### Phantom for Jekyll
+
+A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
+
+![preview](preview.jpg)
+
+[See it in action](http://jamigibbs.github.io/phantom/).
