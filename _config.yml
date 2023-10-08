@@ -17,7 +17,7 @@ title: "Ciencia de datos para todas y todos"
 email: 'marianaarboleda@uninorte.edu.co'
 description: "Repositorio con los materiales de mi curso introductorio al pensamiento computacional y la ciencia de datos.
 El repositorio irá creciendo con los materiales que desarrolle y están sujetos a cambios y mejoras."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/pc-para-todas" # the subpath of your site, e.g. /blog
 url: "https://marianaarboleda.github.io/pc-para-todas" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
 github_username: 'marianaarboleda'
@@ -98,6 +98,6 @@ enable_contact: false
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Inicio' }
-  - { url: '/about', text: 'Acerca de' }
+  - { url: '/pc-para-todas/', text: 'Inicio' }
+  - { url: '/pc-para-todas/acerca/', text: 'Acerca de' }
   - { url: 'https://marianaarboleda.github.io/', text: 'Página personal' }
