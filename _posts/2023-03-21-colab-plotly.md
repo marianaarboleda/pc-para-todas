@@ -1,11 +1,11 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Google-colab + Plotly'
 date: 2023-03-21 19:15:54
 categories: development
 tags: Python
-featured_image: '/img/posts/02_colab_plotly.png'
+featured_image: 'img/posts/02_colab_plotly.png'
 project_link: 'https://github.com/marianaarboleda/pc-para-todas/blob/master/Cuadernos/visualizacion_plotly.ipynb'
 button_icon: 'github'
 button_text: 'Ir al cuaderno'
