@@ -20,7 +20,7 @@ El repositorio irá creciendo con los materiales que desarrolle y están sujetos
 baseurl: "/pc-para-todas" # the subpath of your site, e.g. /blog
 url: "https://marianaarboleda.github.io/pc-para-todas" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
-github_username: 'marianaarboleda'
+github_username: 'marianaarboleda/pc-para-todas'
 medium_username: ''
 
 # Build settings
