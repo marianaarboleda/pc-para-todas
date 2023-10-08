@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Acerca de
-permalink: /about/
+permalink: https://marianaarboleda.github.io/pc-para-todas/acerca/
 ---
 
 <style>
