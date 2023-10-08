@@ -18,3 +18,14 @@ El repositorio irá creciendo con los materiales que desarrolle y están sujetos
 - [Pruebas Saber](Cuadernos/unir_saber.ipynb)
 
 
+
+## Créditos
+
+Página creada con:
+### Phantom for Jekyll
+
+A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
+
+![preview](preview.jpg)
+
+[See it in action](http://jamigibbs.github.io/phantom/).
